@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cokejnr7
-- 👀 I’m interested in frontend and backend web development
+- 👀 I’m interested in frontend and backend web and mobile app development
 - 🌱 I’m currently learning react and django
 - 💞️ I’m looking to collaborate on web based projects
 - 📫 How to reach me on instagram:@explicit_coke mail:kolawolecoke@gmail.com 
