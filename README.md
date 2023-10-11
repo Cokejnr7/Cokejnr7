@@ -19,5 +19,6 @@ Hello! I'm Cokejnr, a Passionate Fullstack Developer with a love creating robust
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cokejnr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cokejnr7&layout=compact)](https://github.com/cokejnr7/github-readme-stats)
+
 
